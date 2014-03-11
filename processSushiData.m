@@ -1,13 +1,16 @@
 % Download data sushi3.tgz from Toshihiro Kamashima's website 
 % http://www.kamishima.net/sushi/
 % Extract the data in a folder.
-% This function extracts the following from sushi4 data 
+% This function extracts the following from sushi3 data 
 % (1) User and item metadata, 
 % (2) Rankings for sushi A and sushi B
 % (3) Ratings for sushi B
 % There are 5000 users and 100 sushis, with
 % rankings for 10 sushis (randomly chosen subset).
 % See README for details
+% 
+% Written by Emtiyaz, EPFL
+% Modified on March 11, 2014
 clear all
 display = 1;
 saveOut = 1;
