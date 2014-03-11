@@ -1,4 +1,4 @@
-sushi3 data
+<h1>sushi3 data</h1>
 
 Download data sushi3.tgz from Toshihiro Kamashima's website http://www.kamishima.net/sushi/ and extract the data in a folder.
 
