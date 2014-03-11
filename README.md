@@ -1,4 +1,10 @@
-sushi3_data
-===========
+sushi3 data
 
-Process sushi3 data
+Download data sushi3.tgz from Toshihiro Kamashima's website http://www.kamishima.net/sushi/ and extract the data in a folder.
+
+Running function processSushiData.m extracts the following from sushi4 data 
+(1) User and item metadata, 
+(2) Rankings for sushi A and sushi B
+(3) Ratings for sushi B
+There are 5000 users and 100 sushis, with rankings for 10 sushis (randomly chosen subset). See README in the Sushi data for details
+
