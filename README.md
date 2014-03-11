@@ -1,4 +1,4 @@
-<h1>Some datasets for Recommendation System</h1>
+<h1>datasets for Recommendation System</h1>
 
 <h2> Sushi Data </h2>
 Download data sushi3.tgz from Toshihiro Kamashima's website http://www.kamishima.net/sushi/ and extract the data in a folder.
